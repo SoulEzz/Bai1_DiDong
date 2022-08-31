@@ -1,0 +1,10 @@
+#d1,
+#d2 {
+    display: flex;
+    align-items: center;
+}
+
+#d1 #nameA,
+#d2 #nameB {
+    height: 24px;
+}
